@@ -23,7 +23,7 @@ DevilsEats is a mobile application for android aimed at students of Duke Univers
  View timeline of food transactions: statistics on average amount spent per day, amount spent today and balance
 
 <p align="center"> 
-    <img src="demo/finance.png">
+    <img src="demo/finance.png" width="350">
  </p>
 
 
@@ -31,7 +31,7 @@ DevilsEats is a mobile application for android aimed at students of Duke Univers
  Average calories intake, calorie intake today, calories burned today, target/goal tracking, data visualization of caloric intake
  
  <p align="center"> 
-    <img src="demo/calorie.png">
+    <img src="demo/calorie.png" width="350">
  </p>
 
  ### Profile creation: 
