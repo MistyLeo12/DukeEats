@@ -85,10 +85,6 @@ Saving picture moments in SQLite database
 ### Camera: 
 Taking images for moments
 
-## Breakdown of Classes, Activities & Adapters
-Main Pages
-
-
 
 ## Testing
 Because of our heavy implementation of Firebase, implementing JUnitTests was not feasible. Since JUnitTest cannot access all the Android libraries we use, it is unable to retrieve information from our Firebase, which is used in most of our classes.
