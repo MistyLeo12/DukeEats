@@ -1,7 +1,13 @@
 # Devil Eats
 Devils Eats is a mobile application for android aimed at students of Duke University in order to make it easier for them to manage and understand their eating habits on campus. 
 
-Team Members: Gabriel Crowell, Bolun Li, Nikhil Vanderklaauw, Xiaoxuan Zhang
+<p align="center"> 
+    <img src="demo/Logo.png">
+ </p>
+ 
+<p align="center"> 
+    <img src="demo/home.png">
+ </p>
 
 ## Problem
 Duke University is not free from the high rates of obesity and eating disorders that affect the United States. Currently tracking calorie intake or food point usage is not easy, our app DevilsEats provides a solution.
@@ -13,6 +19,21 @@ DevilsEats is a mobile application for android aimed at students of Duke Univers
 ## Features
 
 
+ ### Finances: 
+ View timeline of food transactions: statistics on average amount spent per day, amount spent today and balance
+
+<p align="center"> 
+    <img src="demo/finance.png">
+ </p>
+
+
+ ### Calorie Tracker: 
+ Average calories intake, calorie intake today, calories burned today, target/goal tracking, data visualization of caloric intake
+ 
+ <p align="center"> 
+    <img src="demo/calorie.png">
+ </p>
+
  ### Profile creation: 
  Name, initial foodpoint balance, daily caloric goal, foodpoint balance modification (adding points)
 
@@ -22,15 +43,6 @@ DevilsEats is a mobile application for android aimed at students of Duke Univers
 
  ### Map: 
  View your current location and duke restaurant options nearby
-
-
- ### Finances: 
- View timeline of food transactions: statistics on average amount spent per day, amount spent today and balance
-
-
- ### Calorie Tracker: 
- Average calories intake, calorie intake today, calories burned today, target/goal tracking, data visualization of caloric intake
-
 
  ### Moments: 
  Camera and image saving feature
