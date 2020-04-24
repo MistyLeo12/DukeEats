@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "54139566215",
+    "firebase_url": "https://dukeworkout.firebaseio.com",
+    "project_id": "dukeworkout",
+    "storage_bucket": "dukeworkout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54139566215:android:920c4ad6d3c714cc",
+        "android_client_info": {
+          "package_name": "edu.duke.compsci290.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54139566215-4a06f8c4p1vrgmdcspfrv3sv81pu9sfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVeQJPEuBPh4ujgkmXVEByrKGMYHZWi04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
